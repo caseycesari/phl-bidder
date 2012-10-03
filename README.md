@@ -8,7 +8,7 @@ Clone the repo than run 'npm install' in the directory.
 
 ## Useage
 
-Provide the script with the contract ID, which can be found on the New Contract Opportunities page (which can't actually be directly linked too) of eContract Philly. 
+Provide the script with the contract ID, which can be found on the New Contract Opportunities page (which can't actually be directly linked to) of eContract Philly. 
 
 The script runs from the command line. For example: 
 
