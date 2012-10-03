@@ -6,7 +6,7 @@ Get all the document URLs for an RFP on [eContract Philly](https://secure.phila.
 
 Clone the repo than run 'npm install' in the directory.
 
-## Useage
+## Usage
 
 Provide the script with the contract ID, which can be found on the New Contract Opportunities page (which can't actually be directly linked to) of eContract Philly. 
 
