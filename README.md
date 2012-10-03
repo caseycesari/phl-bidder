@@ -8,6 +8,8 @@ Clone the repo than run 'npm install' in the directory.
 
 ## Useage
 
-You must provide the script with the contract ID, which can be found on the New Contract Opportunities of eContract Philly. For example:
+Provide the script with the contract ID, which can be found on the New Contract Opportunities page (which can't actually be directly linked too) of eContract Philly. 
+
+The script runs from the command line. For example: 
 
     $ node bidder.js 21121001155202
