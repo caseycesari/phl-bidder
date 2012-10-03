@@ -1,0 +1,19 @@
+{
+  "name": "phl-bidder",
+  "description": "Get RFP document links from eContracts Philly",
+  "author": "Casey Thomas <c@cpt.ph>",
+  "version": "0.0.1",
+  "main": "./bidder",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/caseypt/phl-bidder.git"
+  },
+  "dependencies": {
+    "request": ">=2.11.1",
+    "jsdom": ">=0.2.15",
+    "jquery": ">=1.7.3"
+  },
+  "engines": {
+    "node": ">=0.8.x"
+  }
+}
