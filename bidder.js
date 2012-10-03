@@ -25,9 +25,9 @@ request({
         ]
       }, function(err, window) {
 
-          // Set the value of the search field to the provided contract id
           var $ = window.jQuery;
 
+          // Set the value of the search field to the provided contract id
           $("#txtContractID").val(rfpId);
 
           var form = $('#frmOpportunityList'),
